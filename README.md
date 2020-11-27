@@ -1,7 +1,7 @@
 # django-todo-react
 
-## Build a To-Do application Using Django and React
+Django Rest Frameworkを使ったDjangoとReactの連携検証用アプリケーション
+下記のサイトを参考に実装
 
-- URL
-
+**Build a To-Do application Using Django and React**
 https://www.digitalocean.com/community/tutorials/build-a-to-do-application-using-django-and-react
